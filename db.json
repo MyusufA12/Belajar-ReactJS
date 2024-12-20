@@ -1,0 +1,50 @@
+{
+  "route1": [
+    {
+      "success": true,
+      "message": "route1",
+      "data": [],
+      "id": "b6ef"
+    }
+  ],
+  "route2": [
+    {
+      "success": true,
+      "message": "route2",
+      "data": [],
+      "id": "2894"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "title": "Product2",
+      "price": 982
+    },
+    {
+      "id": "3",
+      "title": "Product3",
+      "price": 322
+    },
+    {
+      "id": "4",
+      "title": "Product4",
+      "price": 763
+    },
+    {
+      "id": "5",
+      "title": "Product5",
+      "price": 389
+    },
+    {
+      "id": "320e",
+      "title": "Yusuf Hipnotis",
+      "price": "100000000-00000"
+    },
+    {
+      "title": "buku python1",
+      "price": "39999",
+      "id": "6e50"
+    }
+  ]
+}
